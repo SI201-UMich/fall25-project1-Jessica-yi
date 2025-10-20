@@ -1,4 +1,4 @@
-# SI 201 Project1
+# SI 201 Project 1
 # Your name: Keming Yi
 # Your student id: 13466916
 # Your email: kmyi@umich.edu
